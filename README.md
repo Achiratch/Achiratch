@@ -14,7 +14,7 @@
 
 <br/>
   
-<h2>Languages and Tools<img align="right" alt="GIF" src="https://media3.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=ecf05e47bcq64x2w2ws70y7wm8rql84aelwszz2372x3cpx1&rid=giphy.gif&ct=g" width="400" height="400" /></h2>  
+<h2>Languages and Tools<img align="right" alt="GIF" src="https://media3.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=ecf05e47bcq64x2w2ws70y7wm8rql84aelwszz2372x3cpx1&rid=giphy.gif&ct=g" width="350" height="350" /></h2>  
 <br/>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45" />
@@ -29,5 +29,5 @@
 </p>
 
 <h2> 📈  Stats </h2>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Achiratch&show_icons=true&theme=tokyonight&hide_border=true" alt="achiratch" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Achiratch&show_icons=true&theme=tokyonight&hide_border=true" alt="achiratch" />
 
