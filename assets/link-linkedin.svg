@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 44" width="168" height="44" role="img" aria-label="LinkedIn">
+<style>
+.t{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace;font-size:14px;fill:#ecebe8;letter-spacing:.3px}.a{fill:#6aa9e0}
+.u{transform-origin:20px 0;transform:scaleX(.18)}
+@media (prefers-reduced-motion:no-preference){.u{animation:u 1.2s cubic-bezier(.16,1,.3,1) .4s forwards}}
+@media (prefers-reduced-motion:reduce){.u{transform:none}}
+@keyframes u{to{transform:scaleX(1)}}
+</style>
+<rect x=".5" y=".5" width="167" height="43" rx="10" fill="#0e0f11" stroke="#24262a"/>
+<text class="t" x="20" y="27">LinkedIn</text>
+<text class="t a" x="148" y="27" text-anchor="end">&#8599;</text>
+<rect class="u a" x="20" y="33" width="128" height="1.5"/>
+</svg>
